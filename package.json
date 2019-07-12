@@ -1,0 +1,12 @@
+{
+  "name": "app-loader",
+  "version": "1.0.0",
+  "description": "The script will allow to load any repository into needed location by a single config file",
+  "main": "index.js",
+  "dependencies": {
+    "simple-git": "^1.120.0"
+  },
+  "devDependencies": {},
+  "author": "artur93gev",
+  "license": "MIT"
+}
