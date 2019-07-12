@@ -1,3 +1,4 @@
+<a href="https://www.npmjs.com/package/@artur93gev/app-loader"><img src="https://img.shields.io/badge/npm-@artur93gev--app--loader-brightgreen.svg"></a> <a href="https://www.npmjs.com/package/@artur93gev/app-loader"><img src="https://img.shields.io/npm/v/@artur93gev/app-loader.svg"></a>
 # App-loader
 
 Script can be usefull if you want to manipulate with repositories. 
