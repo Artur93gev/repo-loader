@@ -1,11 +1,23 @@
 {
   "name": "@artur93gev/app-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The script will allow to load any repository into needed location by a single config file",
   "main": "index.js",
   "dependencies": {
     "simple-git": "^1.120.0"
   },
+  "engines": {
+    "node": ">= 8.9.4",
+    "npm": ">= 5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artur93gev/repo-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Artur93gev/repo-loader/issues"
+  },
+  "homepage": "https://github.com/Artur93gev/repo-loader#readme",
   "devDependencies": {},
   "author": "artur93gev",
   "license": "MIT"
