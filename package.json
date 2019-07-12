@@ -1,6 +1,6 @@
 {
   "name": "@artur93gev/app-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The script will allow to load any repository into needed location by a single config file",
   "main": "index.js",
   "dependencies": {

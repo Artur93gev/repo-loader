@@ -7,7 +7,7 @@ Script can be usefull if you want to manipulate with repositories.
 
 ```js
 // config.js
-const loader = require('app-loader');
+const load = require('@artur93gev/app-loader');
 
 const configs = {
   app: {
@@ -24,7 +24,7 @@ const configs = {
   },
 };
 
-loader(configs);
+load(configs);
 ```
 
 Than in you can call it from command line executing `node config.js`.

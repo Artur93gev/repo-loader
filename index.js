@@ -1,7 +1,7 @@
 const git = require('simple-git')(process.env.PWD);
 const exec = require('child_process').exec;
 
-const loader = configs => {
+const load = configs => {
   const isDev = process.env.NODE_ENV === 'development';
 
   const syncIterate = (apps, index) => {
@@ -35,4 +35,4 @@ const loader = configs => {
   syncIterate(apps, index);
 }
 
-module.exports = loader;
+module.exports = load;
