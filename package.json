@@ -4,7 +4,7 @@
   "description": "The script will allow to load any repository into needed location by a single config file",
   "main": "index.js",
   "dependencies": {
-    "simple-git": "^1.120.0"
+    "simple-git": "^2.29.0"
   },
   "engines": {
     "node": ">= 8.9.4",
